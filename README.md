@@ -27,8 +27,8 @@ I have used a CNN model for training.
 * Last layer is output layer with 10 nodes and Softmax as a activation function. 
 
 ## Output
-![Inout Image](/sample_image.png)<br/>
-__Predicted Output: __ A
+![Inout Image](/output.png)<br/>
+__Predicted Output: __ 8
 ## Dependencies
 * Keras
 * Tensorflow

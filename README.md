@@ -1,6 +1,6 @@
 # Handwritten Digit Recognition
 In this project we are going to classify the handwritten digits between 0-9. We will be using the famous MNIST dataset
-for tarining the model. Also we will be developing a web application to deploy our model. This application will be a 
+for training the model. Also we will be developing a web application to deploy our model. This application will be a 
 flask based seb application.
 For the classification model we will be developing a CNN model.
 
